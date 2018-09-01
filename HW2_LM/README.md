@@ -1,4 +1,4 @@
-# HW2: Comparing Language Models
+# Comparing Language Models
 
 You will need to download `data.tar.gz` file from the course website, and put it in the `data` folder inside `hw2` (if you put it elsewhere, change the location in the code). You should be then able to run:
 
